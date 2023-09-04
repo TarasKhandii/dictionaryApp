@@ -19,6 +19,7 @@ const ContentPart: React.FC = () => {
           <SvgXml xml={ICONS.sound} />
           {symbolsArr.map((item: string, index: number) => (
             <TouchableOpacity
+              key={index}
               onPress={() => {
                 setActive(prev => !prev);
               }}
@@ -28,8 +29,7 @@ const ContentPart: React.FC = () => {
                 style={[
                   styles.textSentence,
                   active && styles.textSentenceActive,
-                ]}
-                key={index}>
+                ]}>
                 {item}
               </Text>
             </TouchableOpacity>

@@ -4,4 +4,5 @@ export const COLORS = {
   dark: '#26293F',
   grey: '#D5D7D9',
   lightGrey: '#969CA0',
+  backgroundColor: '#2D394205',
 };

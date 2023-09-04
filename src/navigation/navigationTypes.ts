@@ -7,5 +7,6 @@ export type RootStackScreenType<SCREEN extends keyof RootStackParamList> = FC<
 >;
 
 export type RootStackParamList = {
-  [SCREENS.HOME]: undefined;
+  [SCREENS.home]: undefined;
+  [SCREENS.transcription]: undefined;
 };

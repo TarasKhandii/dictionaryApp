@@ -6,7 +6,7 @@ import {FONT_FAMILIES} from '../../assets/fonts';
 
 const styles = StyleSheet.create({
   contentPart: {
-    backgroundColor: '#2D394205',
+    backgroundColor: COLORS.backgroundColor,
     height: '100%',
     flexDirection: 'column',
   },

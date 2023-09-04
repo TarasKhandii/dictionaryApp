@@ -12,17 +12,17 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		26ACB38D13464AFC86AF6AFF /* SFProText-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 228C8C8B3132419D966D501C /* SFProText-Medium.otf */; };
+		2D1F8F73C2504E2EB915307A /* PingFangSc-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9FBEC938C9DB419F9C88FBD5 /* PingFangSc-Regular.ttf */; };
+		47AD69A524064089BE73DA7C /* ArialMT.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1EBA7B2DEF53470C8DF1CFB1 /* ArialMT.ttf */; };
+		622173E00B2548819925BDCD /* SFProText-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3032862CA5154BA8B94CFFD7 /* SFProText-Bold.otf */; };
+		7084744FD912435EB0D0A5E1 /* FZKTK-GBK1.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 658BF13AA3CB484A966A7A9D /* FZKTK-GBK1.ttf */; };
+		71824DAA3CC142419DD88C9D /* Arial-BoldMT.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FC21FD29BAFB4A209DF279CA /* Arial-BoldMT.ttf */; };
 		7699B88040F8A987B510C191 /* libPods-testApp-testAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-testApp-testAppTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		622173E00B2548819925BDCD /* SFProText-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3032862CA5154BA8B94CFFD7 /* SFProText-Bold.otf */; };
-		26ACB38D13464AFC86AF6AFF /* SFProText-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 228C8C8B3132419D966D501C /* SFProText-Medium.otf */; };
-		9EF7B544BEAB44A585A51387 /* SFProText-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4ED3848C74894A40978B003B /* SFProText-Regular.otf */; };
-		71824DAA3CC142419DD88C9D /* Arial-BoldMT.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FC21FD29BAFB4A209DF279CA /* Arial-BoldMT.ttf */; };
-		47AD69A524064089BE73DA7C /* ArialMT.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1EBA7B2DEF53470C8DF1CFB1 /* ArialMT.ttf */; };
-		D5AA7BE179B2408081AD534E /* Biryani-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C3A18DBA23C549ADAFFBA61E /* Biryani-Regular.ttf */; };
 		93D4FF968DE64099B0EBE79D /* Biryani-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F5B5857F9985469CBF5F9356 /* Biryani-Semibold.ttf */; };
-		7084744FD912435EB0D0A5E1 /* FZKTK-GBK1.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 658BF13AA3CB484A966A7A9D /* FZKTK-GBK1.ttf */; };
-		2D1F8F73C2504E2EB915307A /* PingFangSc-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9FBEC938C9DB419F9C88FBD5 /* PingFangSc-Regular.ttf */; };
+		9EF7B544BEAB44A585A51387 /* SFProText-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4ED3848C74894A40978B003B /* SFProText-Regular.otf */; };
+		D5AA7BE179B2408081AD534E /* Biryani-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C3A18DBA23C549ADAFFBA61E /* Biryani-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,22 +46,22 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = testApp/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = testApp/main.m; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-testApp-testAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-testApp-testAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1EBA7B2DEF53470C8DF1CFB1 /* ArialMT.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = ArialMT.ttf; path = ../src/assets/fonts/ArialMT.ttf; sourceTree = "<group>"; };
+		228C8C8B3132419D966D501C /* SFProText-Medium.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SFProText-Medium.otf"; path = "../src/assets/fonts/SFProText-Medium.otf"; sourceTree = "<group>"; };
+		3032862CA5154BA8B94CFFD7 /* SFProText-Bold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SFProText-Bold.otf"; path = "../src/assets/fonts/SFProText-Bold.otf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-testApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-testApp.debug.xcconfig"; path = "Target Support Files/Pods-testApp/Pods-testApp.debug.xcconfig"; sourceTree = "<group>"; };
+		4ED3848C74894A40978B003B /* SFProText-Regular.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SFProText-Regular.otf"; path = "../src/assets/fonts/SFProText-Regular.otf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-testApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-testApp.release.xcconfig"; path = "Target Support Files/Pods-testApp/Pods-testApp.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-testApp-testAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-testApp-testAppTests.debug.xcconfig"; path = "Target Support Files/Pods-testApp-testAppTests/Pods-testApp-testAppTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-testApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-testApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		658BF13AA3CB484A966A7A9D /* FZKTK-GBK1.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "FZKTK-GBK1.ttf"; path = "../src/assets/fonts/FZKTK-GBK1.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = testApp/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-testApp-testAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-testApp-testAppTests.release.xcconfig"; path = "Target Support Files/Pods-testApp-testAppTests/Pods-testApp-testAppTests.release.xcconfig"; sourceTree = "<group>"; };
+		9FBEC938C9DB419F9C88FBD5 /* PingFangSc-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "PingFangSc-Regular.ttf"; path = "../src/assets/fonts/PingFangSc-Regular.ttf"; sourceTree = "<group>"; };
+		C3A18DBA23C549ADAFFBA61E /* Biryani-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Biryani-Regular.ttf"; path = "../src/assets/fonts/Biryani-Regular.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		3032862CA5154BA8B94CFFD7 /* SFProText-Bold.otf */ = {isa = PBXFileReference; name = "SFProText-Bold.otf"; path = "../src/assets/fonts/SFProText-Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		228C8C8B3132419D966D501C /* SFProText-Medium.otf */ = {isa = PBXFileReference; name = "SFProText-Medium.otf"; path = "../src/assets/fonts/SFProText-Medium.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		4ED3848C74894A40978B003B /* SFProText-Regular.otf */ = {isa = PBXFileReference; name = "SFProText-Regular.otf"; path = "../src/assets/fonts/SFProText-Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		FC21FD29BAFB4A209DF279CA /* Arial-BoldMT.ttf */ = {isa = PBXFileReference; name = "Arial-BoldMT.ttf"; path = "../src/assets/fonts/Arial-BoldMT.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		1EBA7B2DEF53470C8DF1CFB1 /* ArialMT.ttf */ = {isa = PBXFileReference; name = "ArialMT.ttf"; path = "../src/assets/fonts/ArialMT.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		C3A18DBA23C549ADAFFBA61E /* Biryani-Regular.ttf */ = {isa = PBXFileReference; name = "Biryani-Regular.ttf"; path = "../src/assets/fonts/Biryani-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		F5B5857F9985469CBF5F9356 /* Biryani-Semibold.ttf */ = {isa = PBXFileReference; name = "Biryani-Semibold.ttf"; path = "../src/assets/fonts/Biryani-Semibold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		658BF13AA3CB484A966A7A9D /* FZKTK-GBK1.ttf */ = {isa = PBXFileReference; name = "FZKTK-GBK1.ttf"; path = "../src/assets/fonts/FZKTK-GBK1.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		9FBEC938C9DB419F9C88FBD5 /* PingFangSc-Regular.ttf */ = {isa = PBXFileReference; name = "PingFangSc-Regular.ttf"; path = "../src/assets/fonts/PingFangSc-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F5B5857F9985469CBF5F9356 /* Biryani-Semibold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Biryani-Semibold.ttf"; path = "../src/assets/fonts/Biryani-Semibold.ttf"; sourceTree = "<group>"; };
+		FC21FD29BAFB4A209DF279CA /* Arial-BoldMT.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Arial-BoldMT.ttf"; path = "../src/assets/fonts/Arial-BoldMT.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -156,19 +156,8 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				3B4392A12AC88292D35C810B /* Pods-testApp.debug.xcconfig */,
-				5709B34CF0A7D63546082F79 /* Pods-testApp.release.xcconfig */,
-				5B7EB9410499542E8C5724F5 /* Pods-testApp-testAppTests.debug.xcconfig */,
-				89C6BE57DB24E9ADA2F236DE /* Pods-testApp-testAppTests.release.xcconfig */,
-			);
-			path = Pods;
-			sourceTree = "<group>";
-		};
 		9DD2E533170949EC80CB8005 /* Resources */ = {
-			isa = "PBXGroup";
+			isa = PBXGroup;
 			children = (
 				3032862CA5154BA8B94CFFD7 /* SFProText-Bold.otf */,
 				228C8C8B3132419D966D501C /* SFProText-Medium.otf */,
@@ -181,8 +170,19 @@
 				9FBEC938C9DB419F9C88FBD5 /* PingFangSc-Regular.ttf */,
 			);
 			name = Resources;
-			sourceTree = "<group>";
 			path = "";
+			sourceTree = "<group>";
+		};
+		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				3B4392A12AC88292D35C810B /* Pods-testApp.debug.xcconfig */,
+				5709B34CF0A7D63546082F79 /* Pods-testApp.release.xcconfig */,
+				5B7EB9410499542E8C5724F5 /* Pods-testApp-testAppTests.debug.xcconfig */,
+				89C6BE57DB24E9ADA2F236DE /* Pods-testApp-testAppTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 

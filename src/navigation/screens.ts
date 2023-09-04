@@ -1,3 +1,4 @@
 export enum SCREENS {
-  HOME = 'HomeScreen',
+  home = 'HomeScreen',
+  transcription = 'TranscriptionScreen',
 }
