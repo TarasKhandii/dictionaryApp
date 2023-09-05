@@ -1,9 +1,9 @@
-import axios from 'axios';
+import axios from './axios';
 
 export const getDictionaryWord = (words: string) => {
   return axios({
     method: 'get',
-    url: '/entries/en/',
+    url: `/entries/en/${words}`,
     params: {words},
   });
 };

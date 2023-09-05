@@ -15,10 +15,18 @@ import {SCREENS} from '../../navigation/screens';
 import {RootStackScreenType} from '../../navigation/navigationTypes';
 import {Formik} from 'formik';
 import LinearGradient from 'react-native-linear-gradient';
+import {getDictionaryWord} from '../../api/dictionaryApi';
 
 const HomeScreen: RootStackScreenType<SCREENS.home> = ({navigation}) => {
   const navHandler = () => {
     navigation.navigate(SCREENS.transcription);
+  };
+
+  const getApi = async (value: string) => {
+    console.log(value, '@@@@');
+
+    const res = await getDictionaryWord(value);
+    console.log(res.data);
   };
 
   return (
@@ -29,6 +37,7 @@ const HomeScreen: RootStackScreenType<SCREENS.home> = ({navigation}) => {
         onSubmit={v => {
           console.log(v.checkWords);
           navHandler();
+          getApi(v.checkWords);
         }}>
         {({handleChange, handleSubmit, values}) => {
           return (
